@@ -30,6 +30,6 @@ def create_app(env_name):
     """
     example endpoint
     """
-    return 'Congratulations! Your first endpoint is workin'
+    return 'Congratulations! Your part 2 endpoint is workin'
 
   return app
