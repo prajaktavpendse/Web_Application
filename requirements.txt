@@ -21,7 +21,7 @@ packaging==19.2
 pluggy==0.13.1
 psycopg2==2.8.4
 psycopg2-binary==2.8.4
-py==1.8.0
+py==1.10.0
 pycparser==2.19
 pyjwt==1.7.1
 pyparsing==2.4.5
